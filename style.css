@@ -1,0 +1,10 @@
+rect {
+    fill: green;
+}
+
+text {
+    font-family: sans-serif;
+    font-size: 12px;
+    fill: white;
+    text-anchor: middle;
+}
